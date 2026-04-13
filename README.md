@@ -5,3 +5,6 @@
 - fixed github
 - Add AudioHelper for sound playback
 - Add Program.cs with main entry point
+- <img width="1851" height="1085" alt="image" src="https://github.com/user-attachments/assets/696f5412-c3ae-496f-9a97-ed6f61145212" />
+- <img width="1851" height="1085" alt="Screenshot 2026-04-13 205556" src="https://github.com/user-attachments/assets/f803c1e3-8313-46ef-8ad3-23ba5967bae1" />
+- <img width="1851" height="1085" alt="workflow" src="https://github.com/user-attachments/assets/d365f5fd-b16f-4300-a158-df3c0986830e" />
